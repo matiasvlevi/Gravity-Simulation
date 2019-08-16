@@ -1,0 +1,31 @@
+body {
+   background-color: #4B4B4B;
+
+}
+button {
+  background-color: #B76E00; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  margin: 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+label {
+   color: white;
+   font-size: 14px;
+   font-family: "Arial", Times, sans-serif;
+   font-weight: bold;
+
+}
+
+p {
+   color: white;
+   font-size: 14px;
+   font-family: "Arial", Times, sans-serif;
+   font-weight: bold;
+   font-style: underline;
+   text-decoration-line: underline;
+}
