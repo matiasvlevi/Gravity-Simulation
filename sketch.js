@@ -13,6 +13,7 @@ let showstats = false;
 
 function setup() {
    createCanvas(1880,780);
+   frameRate(120);
    //TwoSolarSystems();
    //SolarSystem();
    //bh();
